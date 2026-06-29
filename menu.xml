@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+    <category id="coffee" title="Coffee Drinks">
+        <product>
+            <name>Americano</name>
+            <priceM>70</priceM>
+            <priceL>90</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/americano.jpg</image>
+        </product>
+        <product>
+            <name>Latte</name>
+            <priceM>90</priceM>
+            <priceL>120</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/latte.jpg</image>
+        </product>
+        <product>
+            <name>Spanish Latte</name>
+            <priceM>90</priceM>
+            <priceL>120</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/spanish-latte.jpg</image>
+        </product>
+        <product>
+            <name>Spanish Oat</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/spanish-oat.jpg</image>
+        </product>
+        <product>
+            <name>Vanila latte</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/vanila-latte.jpg</image>
+        </product>
+        <product>
+            <name>Vanila Oat latte</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/vanila-oat-latte.jpg</image>
+        </product>
+        <product>
+            <name>Caramel Macchiato</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/caramel-macchiato.jpg</image>
+        </product>
+        <product>
+            <name>Sea Salt</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/sea-salt.jpg</image>
+        </product>
+        <product>
+            <name>Milo Latte</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/milo-latte.jpg</image>
+        </product>
+        <product>
+            <name>White Mocha</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/white-mocha.jpg</image>
+        </product>
+        <product>
+            <name>White Mocha Hazelnut</name>
+            <priceM>130</priceM>
+            <priceL>160</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/white-mocha-hazelnut.jpg</image>
+        </product>
+        <product>
+            <name>Hazelnut Latte</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/hazelnut-latte.jpg</image>
+        </product>
+        <product>
+            <name>Ube latte</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/ube-latte.jpg</image>
+        </product>
+        <product>
+            <name>Brown Sugar Espresso</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/brown-sugar-espresso.jpg</image>
+        </product>
+        <product>
+            <name>Cacao Latte</name>
+            <priceM>120</priceM>
+            <priceL>150</priceL>
+            <icon>☕</icon>
+            <bestseller>true</bestseller>
+            <image>images/cacao-latte.jpg</image>
+        </product>
+        <product>
+            <name>Biscoff Latte</name>
+            <priceM>120</priceM>
+            <priceL>150</priceL>
+            <icon>☕</icon>
+            <bestseller>false</bestseller>
+            <image>images/biscoff-latte.jpg</image>
+        </product>
+    </category>
+
+    <category id="non-coffee" title="Non-Coffee Blends">
+        <product>
+            <name>Ube Cloud</name>
+            <priceM>90</priceM>
+            <priceL>110</priceL>
+            <icon>🥛</icon>
+            <bestseller>false</bestseller>
+            <image>images/ube-cloud.jpg</image>
+        </product>
+        <product>
+            <name>Matcha</name>
+            <priceM>90</priceM>
+            <priceL>120</priceL>
+            <icon>🍵</icon>
+            <bestseller>false</bestseller>
+            <image>images/matcha.jpg</image>
+        </product>
+        <product>
+            <name>Matcha Oatmilk</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>🍵</icon>
+            <bestseller>true</bestseller>
+            <image>images/matcha-oatmilk.jpg</image>
+        </product>
+        <product>
+            <name>White Chocolate Matcha</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>🍵</icon>
+            <bestseller>true</bestseller>
+            <image>images/white-chocolate-matcha.jpg</image>
+        </product>
+        <product>
+            <name>Strawberry Matcha</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>🍵</icon>
+            <bestseller>false</bestseller>
+            <image>images/strawberry-matcha.jpg</image>
+        </product>
+        <product>
+            <name>Sea Salt Matcha</name>
+            <priceM>110</priceM>
+            <priceL>140</priceL>
+            <icon>🍵</icon>
+            <bestseller>false</bestseller>
+            <image>images/sea-salt-matcha.jpg</image>
+        </product>
+        <product>
+            <name>Strawberry Crème Cocoa</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>🍫</icon>
+            <bestseller>false</bestseller>
+            <image>images/strawberry-creme-cocoa.jpg</image>
+        </product>
+        <product>
+            <name>Salted Crème Cocoa</name>
+            <priceM>100</priceM>
+            <priceL>130</priceL>
+            <icon>🍫</icon>
+            <bestseller>false</bestseller>
+            <image>images/salted-creme-cocoa.jpg</image>
+        </product>
+        <product>
+            <name>Strawberry Milk</name>
+            <priceM>80</priceM>
+            <priceL>100</priceL>
+            <icon>🥛</icon>
+            <bestseller>true</bestseller>
+            <image>images/strawberry-milk.jpg</image>
+        </product>
+        <product>
+            <name>Sea Salt Strawberry C.</name>
+            <priceM>90</priceM>
+            <priceL>110</priceL>
+            <icon>🥛</icon>
+            <bestseller>false</bestseller>
+            <image>images/sea-salt-strawberry.jpg</image>
+        </product>
+        <product>
+            <name>Blueberry Milk</name>
+            <priceM>80</priceM>
+            <priceL>100</priceL>
+            <icon>🥛</icon>
+            <bestseller>false</bestseller>
+            <image>images/blueberry-milk.jpg</image>
+        </product>
+        <product>
+            <name>Milo Dino</name>
+            <priceM>80</priceM>
+            <priceL>100</priceL>
+            <icon>🦖</icon>
+            <bestseller>true</bestseller>
+            <image>images/milo-dino.jpg</image>
+        </product>
+    </category>
+
+    <category id="soda" title="Soda">
+        <product>
+            <name>Blueberry</name>
+            <priceM>55</priceM>
+            <priceL>65</priceL>
+            <icon>🥤</icon>
+            <bestseller>false</bestseller>
+            <image>images/blueberry-soda.jpg</image>
+        </product>
+        <product>
+            <name>Lychee</name>
+            <priceM>55</priceM>
+            <priceL>65</priceL>
+            <icon>🥤</icon>
+            <bestseller>false</bestseller>
+            <image>images/lychee-soda.jpg</image>
+        </product>
+        <product>
+            <name>Green Apple</name>
+            <priceM>55</priceM>
+            <priceL>65</priceL>
+            <icon>🥤</icon>
+            <bestseller>false</bestseller>
+            <image>images/green-apple-soda.jpg</image>
+        </product>
+        <product>
+            <name>Bubble Gum</name>
+            <priceM>55</priceM>
+            <priceL>65</priceL>
+            <icon>🥤</icon>
+            <bestseller>false</bestseller>
+            <image>images/bubble-gum-soda.jpg</image>
+        </product>
+        <product>
+            <name>Strawberry</name>
+            <priceM>55</priceM>
+            <priceL>65</priceL>
+            <icon>🥤</icon>
+            <bestseller>false</bestseller>
+            <image>images/strawberry-soda.jpg</image>
+        </product>
+    </category>
+
+    <category id="frappe" title="Ice Blended Frappes">
+        <product>
+            <name>Ube</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/ube-frappe.jpg</image>
+        </product>
+        <product>
+            <name>Vanilla</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/vanilla-frappe.jpg</image>
+        </product>
+        <product>
+            <name>Strawberry Cheesecake</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/strawberry-cheesecake.jpg</image>
+        </product>
+        <product>
+            <name>Blueberry Cheesecake</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/blueberry-cheesecake.jpg</image>
+        </product>
+        <product>
+            <name>Oreo Cheesecake</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/oreo-cheesecake.jpg</image>
+        </product>
+        <product>
+            <name>Nutella Cheesecake</name>
+            <priceM>140</priceM>
+            <priceL>140</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/nutella-cheesecake.jpg</image>
+        </product>
+        <product>
+            <name>Salted Caramel</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/salted-caramel.jpg</image>
+        </product>
+        <product>
+            <name>Milo Dino</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/milo-dino-frappe.jpg</image>
+        </product>
+        <product>
+            <name>Java Chip</name>
+            <priceM>120</priceM>
+            <priceL>120</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/java-chip.jpg</image>
+        </product>
+        <product>
+            <name>Biscoff Crème</name>
+            <priceM>140</priceM>
+            <priceL>140</priceL>
+            <icon>🍨</icon>
+            <bestseller>false</bestseller>
+            <singleSize>true</singleSize>
+            <image>images/biscoff-creme.jpg</image>
+        </product>
+    </category>
+</menu>

@@ -1,0 +1,11 @@
+<!ELEMENT menu (category+)>
+<!ELEMENT category (product*)>
+<!ATTLIST category id ID #REQUIRED>
+<!ATTLIST category title CDATA #REQUIRED>
+<!ELEMENT product (name, priceM, priceL, icon, bestseller, singleSize?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT priceM (#PCDATA)>
+<!ELEMENT priceL (#PCDATA)>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT bestseller (#PCDATA)>
+<!ELEMENT singleSize (#PCDATA)>
